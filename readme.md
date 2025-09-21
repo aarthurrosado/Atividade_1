@@ -36,7 +36,9 @@ make test_cpp
 ## busca_binaria
 
 Arquivo: src_cpp/busca_binaria.cpp
+
 Cabeçalho: include_cpp/busca_binaria.hpp
+
 Descrição: Implementa a busca binária para encontrar um elemento em vetores ordenados.
 
 Parâmetros:
@@ -50,6 +52,7 @@ Complexidade: Θ(log n)
 ## Busca Sequencial Ordenada 
 
 Arquivo: src_cpp/busca_seq_ordenada.cpp
+
 Cabeçalho: include_cpp/busca_seq_ordenada.hpp
 
 Descrição: Implementa a busca sequencial adaptada para vetores ordenados.
@@ -66,6 +69,7 @@ Complexidade: Θ(n)
 recursao
 
 Arquivo: src_cpp/recursao.cpp
+
 Cabeçalho: include_cpp/recursao.hpp
 
 Descrição: Função recursiva que percorre uma string contando quantas vezes um caractere aparece.
