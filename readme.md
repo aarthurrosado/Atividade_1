@@ -27,6 +27,7 @@ Exemplo de saida:
 <img src="saida_terminal.png" alt="Execução dos testes">
 
 Alternativamente, usando Makefile
+
 make test_cpp
 
 <a name="c2"></a>2. Funções Implementadas
