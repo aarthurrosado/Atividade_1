@@ -2,8 +2,16 @@
 
 Repositorio para a atividade_1 de estrutura de dados
 
----
+## Súmario
+[1. compilacao e teste](#c1)
 
+[2. Implementação no ESP32)](#c2)
+
+[3. Armazenamento ou Visualização](#c3)
+
+<br>
+---
+# <a name="c1"></a>1. compilacao e teste
 ## compilacao e testes
 no powershell implemente ->
 g++ -Wall -Wextra -g3 -Iinclude_cpp src_cpp/*.cpp test_cpp/test_algorithms.cpp -o output/test_cpp.exe
