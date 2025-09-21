@@ -76,3 +76,26 @@ char chave → caractere a ser contado
 Retorno: número de ocorrências do caractere na string.
 
 Complexidade: Θ(n)
+
+<a name="c3"></a>3. Estrutura do Repositório
+Atividade_1/
+├── include_cpp/        # Arquivos de cabeçalho (.hpp)
+│   ├── busca_binaria.hpp
+│   ├── busca_seq_ordenada.hpp
+│   └── recursao.hpp
+│
+├── src_cpp/            # Implementações (.cpp)
+│   ├── busca_binaria.cpp
+│   ├── busca_seq_ordenada.cpp
+│   └── recursao.cpp
+│
+├── test_cpp/           # Arquivos de teste
+│   └── test_algorithms.cpp
+│
+├── output/             # Executáveis gerados
+│   └── test_cpp.exe
+│
+├── Makefile            # Automação da compilação
+├── IMD0029 - Atividade Prática.pdf   # Relatório teórico
+└── prints/             # Capturas de tela da execução dos testes
+
