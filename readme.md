@@ -1,6 +1,7 @@
-# Estruturas de Dados Básicas (IMD0029)
+# Estruturas de Dados - IMD0029
+# Professor: João Guilherme
 
-Repositório para a **Atividade 1** de Estruturas de Dados Básicas.  
+Repositório para a **Atividade 1** .  
 
 ---
 
@@ -105,5 +106,3 @@ https://github.com/aarthurrosado/Atividade_1
 
 <a name="c5"></a>5. Autor
 - Arthur Luiz Rosado Alves
-- IMD0029 - Estrutura de dados
-- Professor: João Guilherme
