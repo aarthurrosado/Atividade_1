@@ -99,3 +99,11 @@ Atividade_1/
 ├── IMD0029 - Atividade Prática.pdf   # Relatório teórico
 └── prints/             # Capturas de tela da execução dos testes
 
+<a name="c4"></a>4. Link do Repositório
+
+https://github.com/aarthurrosado/Atividade_1
+
+<a name="c5"></a>5. Autor
+- Arthur Luiz Rosado Alves
+- IMD0029 - Estrutura de dados
+- Professor: João Guilherme
