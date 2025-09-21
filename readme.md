@@ -10,9 +10,10 @@ Repositorio para a atividade_1 de estrutura de dados
 [3. Armazenamento ou Visualização](#c3)
 
 <br>
----
 # <a name="c1"></a>1. compilacao e teste
+
 ## compilacao e testes
+
 no powershell implemente ->
 g++ -Wall -Wextra -g3 -Iinclude_cpp src_cpp/*.cpp test_cpp/test_algorithms.cpp -o output/test_cpp.exe
 
