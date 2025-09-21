@@ -1,10 +1,10 @@
-# 📘 Estruturas de Dados Básicas (IMD0029)
+# Estruturas de Dados Básicas (IMD0029)
 
 Repositório para a **Atividade 1** de Estruturas de Dados Básicas.  
 
 ---
 
-## 📑 Sumário
+##  Sumário
 1. [Compilação e Testes](#c1)  
 2. [Funções Implementadas](#c2)  
 3. [Estrutura do Repositório](#c3)  
@@ -15,7 +15,7 @@ Repositório para a **Atividade 1** de Estruturas de Dados Básicas.
 
 # <a name="c1"></a>1. Compilação e Testes
 ## Compilação
-### 🔹 Via PowerShell
+###  Via PowerShell
 Compile com:
 powershell
 g++ -Wall -Wextra -g3 -Iinclude_cpp src_cpp/*.cpp test_cpp/test_algorithms.cpp -o output/test_cpp.exe
