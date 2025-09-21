@@ -23,6 +23,7 @@ g++ -Wall -Wextra -g3 -Iinclude_cpp src_cpp/*.cpp test_cpp/test_algorithms.cpp -
 Execute: 
 .\output\test_cpp.exe
 Exemplo de saida:
+
 <img src="saida_terminal.png" alt="Execução dos testes" width="600">
 
 Alternativamente, usando Makefile
