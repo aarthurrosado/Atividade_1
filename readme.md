@@ -1,4 +1,5 @@
 # Estruturas de Dados - IMD0029
+# Autor: Arthur Luiz Rosado Alves
 # Professor: João Guilherme
 
 Repositório para a **Atividade 1** .  
@@ -10,7 +11,6 @@ Repositório para a **Atividade 1** .
 2. [Funções Implementadas](#c2)  
 3. [Estrutura do Repositório](#c3)  
 4. [Link do Repositório](#c4)  
-5. [Autor](#c5)  
 
 ---
 
@@ -104,5 +104,4 @@ Atividade_1/
 
 https://github.com/aarthurrosado/Atividade_1
 
-<a name="c5"></a>5. Autor
-- Arthur Luiz Rosado Alves
+
