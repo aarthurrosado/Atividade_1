@@ -21,6 +21,11 @@ depois rode -> .\output\test_cpp.exe
 
 <img src="saida_terminal.png"></a>
 
+Alternativamente, se o `make` estiver instalado, basta rodar:
+make test_cpp
+
+
+
 
 ## Funcoes implementadas 
 busca_binaria
