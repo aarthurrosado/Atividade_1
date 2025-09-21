@@ -40,10 +40,10 @@ Cabeçalho: include_cpp/busca_binaria.hpp
 Descrição: Implementa a busca binária para encontrar um elemento em vetores ordenados.
 
 Parâmetros:
-const std::vector<int>& arr → vetor ordenado
+int n → número total de versões
 int alvo → elemento procurado
 
-Retorno: índice do elemento se encontrado, ou -1 caso contrário.
+Retorno: primeira versão defeituosa encontrada
 
 Complexidade: Θ(log n)
 
