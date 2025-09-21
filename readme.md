@@ -18,7 +18,8 @@ no powershell implemente ->
 g++ -Wall -Wextra -g3 -Iinclude_cpp src_cpp/*.cpp test_cpp/test_algorithms.cpp -o output/test_cpp.exe
 
 depois rode -> .\output\test_cpp.exe
-<img src="/assets/var-temp.png"></a>
+
+<img src="saida_terminal.png"></a>
 
 
 ## Funcoes implementadas 
