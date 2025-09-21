@@ -79,6 +79,7 @@ Retorno: número de ocorrências do caractere na string.
 Complexidade: Θ(n)
 
 <a name="c3"></a>3. Estrutura do Repositório
+```
 Atividade_1/
 ├── include_cpp/        # Arquivos de cabeçalho (.hpp)
 │   ├── busca_binaria.hpp
@@ -99,7 +100,7 @@ Atividade_1/
 ├── Makefile            # Automação da compilação
 ├── IMD0029 - Atividade Prática.pdf   # Relatório teórico
 └── prints/             # Capturas de tela da execução dos testes
-
+```
 <a name="c4"></a>4. Link do Repositório
 
 https://github.com/aarthurrosado/Atividade_1
