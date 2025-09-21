@@ -24,7 +24,7 @@ Execute:
 .\output\test_cpp.exe
 Exemplo de saida:
 
-<img src="saida_terminal.png" alt="Execução dos testes" width="600">
+<img src="saida_terminal.png" alt="Execução dos testes">
 
 Alternativamente, usando Makefile
 make test_cpp
